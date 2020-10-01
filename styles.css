@@ -1,0 +1,31 @@
+.header{
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    padding-left: 1.5rem;
+    background-color: #ede693;
+    margin-bottom: 0;
+}
+.main-section{
+    display: inline-flex;
+}
+.my-nav{
+    display: block;
+}
+
+.my-section{
+    padding-left: 1rem;
+    background-color: #f7f1ab;
+    border: solid 1px;
+    border-color: #383837;
+}
+
+.my-sidebar{
+    padding: 2rem;
+    padding-right: 0rem;
+    background-color: #949491;
+}
+.news {
+    padding-top: 0;
+    padding-bottom: 0;
+    width: 70%;
+}

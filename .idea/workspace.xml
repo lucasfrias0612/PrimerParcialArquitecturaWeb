@@ -20,37 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1793e8ff-e923-4f6c-b2ea-437cb9f7168b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/html.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Controller.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ListCitiesController.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Slim/Environment.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Slim/Exception/Pass.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Slim/Exception/Stop.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Slim/Helper/Set.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Slim/Http/Cookies.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Slim/Http/Headers.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Slim/Http/Request.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Slim/Http/Response.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Slim/Http/Util.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Slim/Log.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Slim/LogWriter.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Slim/Middleware.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Slim/Middleware/ContentTypes.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Slim/Middleware/Flash.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Slim/Middleware/MethodOverride.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Slim/Middleware/PrettyExceptions.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Slim/Middleware/SessionCookie.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Slim/Route.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Slim/Router.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Slim/Slim.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Slim/View.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ViewCityController.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/functions.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/classes/Route.php" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,6 +30,13 @@
   </component>
   <component name="ComposerSettings">
     <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -73,6 +51,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$USER_HOME$/PhpstormProjects/arq-web-api" />
@@ -116,7 +95,7 @@
       <workItem from="1599688364203" duration="3919000" />
       <workItem from="1600873413473" duration="7345000" />
       <workItem from="1600882546900" duration="7536000" />
-      <workItem from="1601504157494" duration="5033000" />
+      <workItem from="1601504157494" duration="5279000" />
     </task>
     <servers />
   </component>
@@ -156,38 +135,38 @@
       <screen x="0" y="0" width="1360" height="732" />
     </state>
     <state x="463" y="126" width="434" height="488" key="FileChooserDialogImpl/0.0.1360.732@0.0.1360.732" timestamp="1601504371939" />
-    <state width="1318" height="216" key="GridCell.Tab.0.bottom" timestamp="1601507146866">
+    <state width="1318" height="216" key="GridCell.Tab.0.bottom" timestamp="1601509436203">
       <screen x="0" y="0" width="1360" height="732" />
     </state>
-    <state width="1318" height="216" key="GridCell.Tab.0.bottom/0.0.1360.732@0.0.1360.732" timestamp="1601507146866" />
-    <state width="1318" height="216" key="GridCell.Tab.0.center" timestamp="1601507146865">
+    <state width="1318" height="216" key="GridCell.Tab.0.bottom/0.0.1360.732@0.0.1360.732" timestamp="1601509436203" />
+    <state width="1318" height="216" key="GridCell.Tab.0.center" timestamp="1601509436201">
       <screen x="0" y="0" width="1360" height="732" />
     </state>
-    <state width="1318" height="216" key="GridCell.Tab.0.center/0.0.1360.732@0.0.1360.732" timestamp="1601507146865" />
-    <state width="1318" height="216" key="GridCell.Tab.0.left" timestamp="1601507146865">
+    <state width="1318" height="216" key="GridCell.Tab.0.center/0.0.1360.732@0.0.1360.732" timestamp="1601509436201" />
+    <state width="1318" height="216" key="GridCell.Tab.0.left" timestamp="1601509436198">
       <screen x="0" y="0" width="1360" height="732" />
     </state>
-    <state width="1318" height="216" key="GridCell.Tab.0.left/0.0.1360.732@0.0.1360.732" timestamp="1601507146865" />
-    <state width="1318" height="216" key="GridCell.Tab.0.right" timestamp="1601507146866">
+    <state width="1318" height="216" key="GridCell.Tab.0.left/0.0.1360.732@0.0.1360.732" timestamp="1601509436198" />
+    <state width="1318" height="216" key="GridCell.Tab.0.right" timestamp="1601509436202">
       <screen x="0" y="0" width="1360" height="732" />
     </state>
-    <state width="1318" height="216" key="GridCell.Tab.0.right/0.0.1360.732@0.0.1360.732" timestamp="1601507146866" />
-    <state width="1318" height="216" key="GridCell.Tab.1.bottom" timestamp="1601507146867">
+    <state width="1318" height="216" key="GridCell.Tab.0.right/0.0.1360.732@0.0.1360.732" timestamp="1601509436202" />
+    <state width="1318" height="216" key="GridCell.Tab.1.bottom" timestamp="1601509436204">
       <screen x="0" y="0" width="1360" height="732" />
     </state>
-    <state width="1318" height="216" key="GridCell.Tab.1.bottom/0.0.1360.732@0.0.1360.732" timestamp="1601507146867" />
-    <state width="1318" height="216" key="GridCell.Tab.1.center" timestamp="1601507146867">
+    <state width="1318" height="216" key="GridCell.Tab.1.bottom/0.0.1360.732@0.0.1360.732" timestamp="1601509436204" />
+    <state width="1318" height="216" key="GridCell.Tab.1.center" timestamp="1601509436203">
       <screen x="0" y="0" width="1360" height="732" />
     </state>
-    <state width="1318" height="216" key="GridCell.Tab.1.center/0.0.1360.732@0.0.1360.732" timestamp="1601507146867" />
-    <state width="1318" height="216" key="GridCell.Tab.1.left" timestamp="1601507146866">
+    <state width="1318" height="216" key="GridCell.Tab.1.center/0.0.1360.732@0.0.1360.732" timestamp="1601509436203" />
+    <state width="1318" height="216" key="GridCell.Tab.1.left" timestamp="1601509436203">
       <screen x="0" y="0" width="1360" height="732" />
     </state>
-    <state width="1318" height="216" key="GridCell.Tab.1.left/0.0.1360.732@0.0.1360.732" timestamp="1601507146866" />
-    <state width="1318" height="216" key="GridCell.Tab.1.right" timestamp="1601507146867">
+    <state width="1318" height="216" key="GridCell.Tab.1.left/0.0.1360.732@0.0.1360.732" timestamp="1601509436203" />
+    <state width="1318" height="216" key="GridCell.Tab.1.right" timestamp="1601509436204">
       <screen x="0" y="0" width="1360" height="732" />
     </state>
-    <state width="1318" height="216" key="GridCell.Tab.1.right/0.0.1360.732@0.0.1360.732" timestamp="1601507146867" />
+    <state width="1318" height="216" key="GridCell.Tab.1.right/0.0.1360.732@0.0.1360.732" timestamp="1601509436204" />
     <state x="646" y="178" width="455" height="554" key="NewPhpClassDialog" timestamp="1601507467165">
       <screen x="0" y="0" width="1360" height="732" />
     </state>
